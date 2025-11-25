@@ -11,3 +11,11 @@ Technology is advancing rapidly, increasing the need for energy-efficient applia
 
 # Objective
 In this project, we hope to ultimately develop a machine learning model that is capable of accurately forecasting energy consumption. This project opens up the possibility to further this model with real or near-real-time energy consumption prediction. In order to do this, we must gather historical data related to energy consumption, such as temperature, building occupancy, and day of the week. Following this, we must preprocess/clean the data so that we can use regression techniques such as linear regression to identify trends and correlations to predict energy consumption. Using metrics such as MAE or MSE, we can assess model performance, optimize it, and hopefully explore even more regression techniques to improve accuracy and robustness.
+
+# Features
+- **Data Scaling:** scales data for better readability of graphs and relevance of data.
+- **Graphical Visuals:** provides multiple visuals for better comprehension.
+
+# Quick Start
+1. Download the dataset file
+[ElectricityLoadDiagrams20112014](https://archive.ics.uci.edu/dataset/321/electricityloaddiagrams20112014)
